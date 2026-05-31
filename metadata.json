@@ -1,0 +1,6 @@
+{
+  "name": "Paws & Hearts Adoption",
+  "description": "A warm and lively pet adoption website featuring animal profiles, photo carousels, filtering, and adoption inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
